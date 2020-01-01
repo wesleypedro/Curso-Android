@@ -1,0 +1,4 @@
+#Tue Dec 31 22:28:04 BRST 2019
+base.0=D\:\\Documents\\UFC\\Cursos\\Android\\Aula_ListView\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
